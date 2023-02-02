@@ -43,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "@graphiql/toolkit": "0.8.0",
+    "@graphiql/react": "0.15.0"
   }
 }
